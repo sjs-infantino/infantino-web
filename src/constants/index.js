@@ -39,18 +39,21 @@ import {
   yourlogo,
   nextjs,
   firebase,
+  Member0,
+  Member1,
+  Member2,
 } from "../assets";
 
 export const navigation = [
   {
     id: "0",
     title: "Home",
-    url: "/",
+    url: "#hero",
   },
   {
     id: "1",
     title: "History",
-    url: "#history",
+    url: "#roadmap",
   },
   {
     id: "2",
@@ -124,6 +127,30 @@ export const roadmap = [
     status: "done",
     imageUrl: roadmap4,
   },
+];
+
+export const teamMembers = [
+  {
+    id: "0",
+    title: "Arnav Singh",
+    text: "IT Minister",
+    date: "Present",
+    imageUrl: Member0,
+  },
+  {
+    id: "1",
+    title: "Shlok Chaitanya",
+    text: "Lead Developer",
+    date: "Present",
+    imageUrl: Member1,
+  },
+  {
+    id: "2",
+    title: "Anant Prasad",
+    text: "Developer Advocate",
+    date: "Present",
+    imageUrl: Member2,
+  }
 ];
 
 export const collabText =

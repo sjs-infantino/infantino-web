@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "dummyinfantino",
+    "site": "infantino-mk06",
     "source": ".",
     "ignore": [
       "firebase.json",

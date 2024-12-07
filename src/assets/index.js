@@ -74,6 +74,10 @@ import benefitIcon4 from "./benefits/icon-4.svg";
 import benefitIcon5 from "./benefits/icon-5.svg";
 import benefitImage2 from "./benefits/image-2.png";
 
+import Member0 from "./TeamMembers/Member0.png";
+import Member1 from "./TeamMembers/Member1.png";
+import Member2 from "./TeamMembers/Member2.png";
+
 import discordBlack from "./socials/discord.svg";
 import facebook from "./socials/facebook.svg";
 import instagram from "./socials/instagram.svg";
@@ -84,6 +88,9 @@ export {
   Infantino,
   check,
   check2,
+  Member0,
+  Member1,
+  Member2,
   loading1,
   InfantinoSymbol,
   InfantinoWhiteSymbol,

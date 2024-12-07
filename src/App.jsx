@@ -7,6 +7,7 @@ import Hero from "./components/Hero";
 import Pricing from "./components/Pricing";
 import Roadmap from "./components/Roadmap";
 import Services from "./components/Services";
+import Team from "./components/Team";
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
         <Hero />
         <Benefits />
         <Collaboration />
+        <Team />
         <Roadmap />
         <Footer />
       </div>

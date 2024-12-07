@@ -14,7 +14,7 @@ const Collaboration = () => {
   };
 
   return (
-    <Section crosses>
+    <Section crosses id="events">
       <div className="container lg:flex">
         <div className="max-w-[26rem]">
           <h2 className="h2 mb-4 md:mb-8">
