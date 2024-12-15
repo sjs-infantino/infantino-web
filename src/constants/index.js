@@ -146,8 +146,8 @@ export const teamMembers = [
   },
   {
     id: "2",
-    title: "Anant Prasad",
-    text: "Developer Advocate",
+    title: "Namish Yadav",
+    text: "Cheif Video Editor",
     date: "Present",
     imageUrl: Member2,
   }
